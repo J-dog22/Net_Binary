@@ -45,4 +45,3 @@ Keep in mind that your system configurations and user privilege's may also affec
 
 	 Net.exe [\\ComputerName] [/cache] [/all]
 
-If you ever forget the syntax or what the command does, you can type the command and use the"/?" flag for help! (i.e. "Net.exe user /?")
