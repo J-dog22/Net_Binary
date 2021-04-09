@@ -7,14 +7,7 @@ Net.exe is a executable written C++ that attempts to mimic some capabilities of 
 
 ***Operating System**
 
-This tool was built and tested only on a Windows 10 operating system. As such, the performance of the tool on older versions of Windows is not known at this time. If running Windows 10, the tool does not require any installations or 
-additional downloads in order to run as intended. 
-
-For Linux/Mac users, you may try running the executable in a Virtual Machines, Wine, and other containerized application.
-
-## Location
-
-The executable is found at the path: **\Net\Debug\Net.exe**
+This tool was built and tested only on a Windows 10 operating system. As such, the performance of the tool on older versions of Windows is not known at this time. 
 
 ## Usage
 
