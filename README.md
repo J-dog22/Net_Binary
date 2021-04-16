@@ -1,5 +1,5 @@
 # Net_Binary
-Midterm Assignment for CFRS780 Spring 2021. Built a programs that mimics some capabilities of net.exe
+Built a programs that mimics some capabilities of net.exe
 
 Net.exe is a executable written C++ that attempts to mimic some capabilities of the actual NET.EXE tool. This programming was written with the uses of several Windows32 API to help aid in its functionality. 
 
